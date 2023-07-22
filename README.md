@@ -1,4 +1,4 @@
-# The Chat
+# Ba@te
 [![Language](https://img.shields.io/badge/Language-Javascript-blue.svg?style=flat)](https://www.javascript.com/)
 [![Framework](https://img.shields.io/badge/Framework-Reactjs-brightgreen.svg?style=flat)](https://reactjs.org/)
 ####
