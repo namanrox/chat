@@ -4,10 +4,6 @@ import MainForm from "./components/MainForm";
 
 function App() {
   return (
-    <div
-      className="container-fluid bg-info text-dark d-flex align-items-center justify-content-center"
-      style={{ height: "100vh" }}
-    >
       <Router>
         <Routes>
           <Route index element={<MainForm />} />
@@ -15,7 +11,6 @@ function App() {
           <Route path="*" element={<h1>404 Not Found!</h1>} />
         </Routes>
       </Router>
-    </div>
   );
 }
 
