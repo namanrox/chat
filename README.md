@@ -33,5 +33,7 @@ in your GitBash or terminal of VS Code.
 - Check for `App started at port {provider}` to know whether the port is connected properly or not with the front-end.
 - Now you are set to use it locally.
 
-![home](https://github.com/namanrox/chat/assets/94623032/cfb26653-157e-4189-86d3-2a760f4fd66f)
-![chat room](https://github.com/namanrox/chat/assets/94623032/9033dbad-df2c-4d40-aa94-b6889363aa5d)
+![home](https://github.com/user-attachments/assets/5e78b2a4-75bb-4e8e-8293-5612ab1944af)
+
+![chat room](https://github.com/user-attachments/assets/26d138da-4f17-40d7-8273-f1378a6af545)
+
