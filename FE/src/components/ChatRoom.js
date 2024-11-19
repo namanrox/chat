@@ -15,7 +15,7 @@ const ChatRoom = () => {
   const [file, setFile] = useState(null);
 
   useEffect(() => {
-    const socket = io("https://chat-app-5ng4.onrender.com/");
+    const socket = io("https://chat-app-basic.onrender.com");
     setSocket(socket);
 
     socket.on("connect", () => {
